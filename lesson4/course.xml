@@ -1,0 +1,26 @@
+<course>
+    <name>Python for QA</name>
+    <modules>
+        <module id="module1">
+            Cource Introduction
+            <examples>
+                <example>Install Git</example>
+                <example>Install PyCharm</example>
+            </examples>
+        </module>
+        <module id="module2">Introduction to Python</module>
+        <module id="module3">Python Basics</module>
+        <module id="module4">Python Intermediate</module>
+        <module id="module5">
+            HTTP, JSON, XML, HTML
+            <examples>
+                <example>Use requests</example>
+                <example>Parse XML</example>
+            </examples>
+        </module>
+    </modules>
+</course>
+
+
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+  <xsl:template match="/">
+    <html>
+      <title><xsl:value-of select="course/name"/></title>
+      <body>
+        <xsl:for-each select="course/modules/module">
+          <article>
+            <h1><xsl:value-of select="text()"/></h1>
+            <xsl:if test="./examples">
+              <ul>
+                <xsl:for-each select="./examples/example">
+                <li><xsl:value-of select="text()"/></li>
+                </xsl:for-each>
+              </ul>
+            </xsl:if>
+          </article>
+        </xsl:for-each>
+      </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>
