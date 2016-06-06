@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Хабрахабр / Все публикации</title>
+    <link>https://habrahabr.ru/</link>
+    <description><![CDATA[Все публикации на Хабрахабре]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habrahabr.ru</managingEditor>
+    <generator>habrahabr.ru</generator>
+    <pubDate>Tue, 29 Mar 2016 20:01:16 GMT</pubDate>
+    <lastBuildDate></lastBuildDate>
+        <image>
+            <link>https://habrahabr.ru/</link>
+            <url>https://habrahabr.ru/images/logo.png</url>
+            <title>Хабрахабр</title>
+        </image>
+                    <item>
+        <title><![CDATA[Xubuntu: предлагаю проголосовать за включение темной визуальной темы в дистрибутив]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280492/</guid>
+        <link>https://habrahabr.ru/post/280492/</link>
+        <description><![CDATA[<br/>Один из моих любимых дистрибутивов — Xubuntu, ценю ее за простоту и скорость. GNU/Linux — это конструктор и особо не имеет значения что предустановленно а что нет, но есть базовые вещи которые нужны многим. Для меня такая базовая вещь — это темная тема для GUI. Хорошо было бы чтобы дистрибутивы имели ее из коробки, цена — несколько мегабайт.<br/>
+<br/>
+<img src="https://habrastorage.org/files/ae6/700/8ec/ae67008ece4240718077bd2749a023a3.png"/><br/>
+<br/>
+Пару недель назад в баг-трекере Xubuntu я завел тикет на включение одной из лучших темных тем — <a href="http://killhellokitty.deviantart.com/art/Dorian-theme-3-10-416353853">Dorian</a>. Этим постом на Хабре хочу пригласить солидарных <a href="https://bugs.launchpad.net/ubuntu/+source/xubuntu-artwork/+bug/1544979">проголосовать</a> за включение в Xubuntu темной визуальной темы.<br/>
+<br/>
+Возможно вы знаете лучшую темную gtk2 тему — был бы рад узнать о ней. <a href="https://habrahabr.ru/post/280492/#habracut"></a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 19:56:29 GMT</pubDate>
+        <author>zdanevich-vitaly</author>
+        <category><![CDATA[Настройка Linux]]></category><category><![CDATA[Open source]]></category>
+        <category><![CDATA[Xubuntu]]></category><category><![CDATA[Ubuntu]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Подробный обзор Affinity Designer (Mac OS). Часть 2]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/279967/</guid>
+        <link>https://habrahabr.ru/post/279967/</link>
+        <description><![CDATA[<br/><img src="https://habrastorage.org/getpro/habr/post_images/45d/5bf/4d6/45d5bf4d6f3cdaa8ae76c16335a3df28.png" alt="image"/><br/>
+В этот раз расскажу о рабочих панелях. Если в общем, то все примерно такое же как в Иллюстраторе. Есть пара непонятных моментов, есть пара очень удобных штук, которых нет у больших конкурентов. Включить все или по отдельности можно в меню «View-&gt;Studio-&gt;...»<br/>
+<br/>
+ <a href="https://habrahabr.ru/post/279967/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 17:08:36 GMT</pubDate>
+        <author>reznik_e</author>
+        <category><![CDATA[Работа с иконками]]></category><category><![CDATA[Обработка изображений]]></category><category><![CDATA[Векторная графика]]></category>
+        <category><![CDATA[векторная графика]]></category><category><![CDATA[иконки]]></category><category><![CDATA[иллюстрация]]></category><category><![CDATA[графика]]></category><category><![CDATA[osx]]></category><category><![CDATA[mac os x]]></category><category><![CDATA[обработка изображений]]></category><category><![CDATA[обзор]]></category><category><![CDATA[macaffinity]]></category><category><![CDATA[дизайн]]></category><category><![CDATA[графический дизайн]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Рождение Chargeback’а]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280480/</guid>
+        <link>https://habrahabr.ru/post/280480/</link>
+        <description><![CDATA[<br/><img src="https://habrastorage.org/files/3e7/30b/a3e/3e730ba3e7b44c05a668a3ad0f501b52.jpg"/><br/>
+<br/>
+Данная статья явилась результатом небольшого исследования отличий развития карточной отрасли в США и России. Хотя целью исследования было выявления факторов, давших толчок развития электронным валютам у нас в объёмах, значительно опережающих запад, при том, что сама идеология построения Visa/MasterCard сильно превосходит централизованные виртуальные кошельки.<br/>
+<br/>
+В данном повествовании мы затронем только один фактор – недоверие Россиян к картам. И первая деталь, которая сразу бросается в глаза – это Visa Zero Liability на сайте американской Visa, которая гласит, что “Вы не будете нести ответственность за неавторизованное использование вашей карты. Вы защищены, если ваша карта потеряна, украдена или используется мошеннически”. А внизу маленькими буквами подписано “Покрывает только карты, эмитированные в США”. Но дорогой читатель конечно знает, что это правило является одним из основных правил МПС (международных платежных систем) и работает так же хорошо и в России. Только вы когда-нибудь слышали, чтобы хоть в одном банке вам объясняли – “в случае чего мы вернём ваши деньги”? Я – нет.<br/>
+<br/>
+ <a href="https://habrahabr.ru/post/280480/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 16:15:27 GMT</pubDate>
+        <author>TC40</author>
+        <category><![CDATA[Платежные системы]]></category><category><![CDATA[Блог компании ChronoPay]]></category>
+        <category><![CDATA[банковские карты]]></category><category><![CDATA[visa]]></category><category><![CDATA[mastercard]]></category><category><![CDATA[chargeback]]></category><category><![CDATA[платёжные системы]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Блеск и нищета Big Data]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280474/</guid>
+        <link>https://habrahabr.ru/post/280474/</link>
+        <description><![CDATA[<br/>Революция, связанная с анализом больших данных, порождает не только замечательные достижения, но и определенные трудности, в том числе методологического характера. Рассмотрим некоторые из них детальнее.<br/>
+ <a href="https://habrahabr.ru/post/280474/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 16:11:09 GMT</pubDate>
+        <author>GeorgijArchipov</author>
+        <category><![CDATA[Машинное обучение]]></category><category><![CDATA[Data Mining]]></category><category><![CDATA[Big Data]]></category>
+        <category><![CDATA[BIG DATA]]></category><category><![CDATA[DATA MINING]]></category><category><![CDATA[фрагментарная структурированность]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Flume — управляем потоками данных. Часть 1]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280386/</guid>
+        <link>https://habrahabr.ru/post/280386/</link>
+        <description><![CDATA[<br/>Привет, Хабр! В этом цикле статей я планирую рассказать о том, как можно организовать сбор и передачу данных с помощью одного из инструментов Hadoop — <a href="https://flume.apache.org/">Apache Flume</a>. <br/>
+<br/>
+<a href="https://habrahabr.ru/company/dca/blog/280386/"><div style="text-align:center;"><img src="https://habrastorage.org/files/8f9/b03/233/8f9b03233c1349f69b0e495ad4a47946.jpg" /></div></a> <a href="https://habrahabr.ru/post/280386/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 15:44:34 GMT</pubDate>
+        <author>Deneb</author>
+        <category><![CDATA[Хранение данных]]></category><category><![CDATA[Разработка]]></category><category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Блог компании DCA (Data-Centric Alliance)]]></category>
+        <category><![CDATA[big data]]></category><category><![CDATA[flume]]></category><category><![CDATA[hadoop]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Видео-туториалсы запуска вычислительных задач на Python, R, С++, Octave и Blender во FlyElelephant]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280472/</guid>
+        <link>https://habrahabr.ru/post/280472/</link>
+        <description><![CDATA[<br/>Пару недель назад, наша команда <a href="https://habrahabr.ru/company/flyelephant/blog/278751/">выпустила</a> свежий релиз <a href="https://flyelephant.net">FlyElelephant</a> — платформа для ученых, которая предоставляет готовую вычислительную инфраструктуру для проведения расчетов, помогает находить партнеров и совместно работать над проектами, а также управлять всеми данными из одного места.<br/>
+<br/>
+В качестве вычислительного ресурса сейчас используется облако Azure, а пользователи могут запускать вычислительные задачи, написанные с помощью С++ (с поддержкой OpenMP), R, Python, Octave, Scilab, Java, Julia, OpenFOAM, GROMACS, Blender на серверах с количеством ядер от 1 до 32 и оперативной памятью до 448 ГБ.<br/>
+<br/>
+Сегодня мы хотим поделиться <a href="https://flyelephant.net/documentation/ru/Video_Tutorials/">видео-туториалсами</a> запуска задач во FlyElelephant. Под катом вы найдете видео, как запускать вычислительные задачи, написанные с помощью С++, R, Python, Octave и рендерить изображения с помощью Blender, а также промо-код для получения бесплатных дополнительных часов работы ваших задач.<br/>
+ <a href="https://habrahabr.ru/post/280472/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 15:30:00 GMT</pubDate>
+        <author>m31</author>
+        <category><![CDATA[R]]></category><category><![CDATA[Python]]></category><category><![CDATA[Data Mining]]></category><category><![CDATA[C++]]></category><category><![CDATA[Блог компании FlyElephant]]></category>
+        <category><![CDATA[FlyElephant]]></category><category><![CDATA[HPC]]></category><category><![CDATA[облачные вычисления]]></category><category><![CDATA[научные расчёты]]></category><category><![CDATA[параллельное программирование]]></category><category><![CDATA[c++]]></category><category><![CDATA[openmp]]></category><category><![CDATA[стартапы]]></category><category><![CDATA[GCC]]></category><category><![CDATA[R]]></category><category><![CDATA[Python]]></category><category><![CDATA[Octave]]></category><category><![CDATA[Scilab]]></category><category><![CDATA[Java]]></category><category><![CDATA[Julia]]></category><category><![CDATA[OpenFOAM]]></category><category><![CDATA[GROMACS]]></category><category><![CDATA[Blender]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[PowerWare новый вымогатель использующий PowerShell]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280466/</guid>
+        <link>https://habrahabr.ru/post/280466/</link>
+        <description><![CDATA[<br/>Black Carbon Threat Research Team недавно обнаружили новое семейство вымогателей, получившее название PowerWare. Они нацелены на структуры использующее Microsoft Word и PowerShell. PowerShell является языком сценариев для операционных систем Microsoft.<br/>
+<br/>
+<img src="https://habrastorage.org/files/f90/2ae/a5c/f902aea5c54f45a6b612370b93c7e202.png"/> <a href="https://habrahabr.ru/post/280466/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 15:25:45 GMT</pubDate>
+        <author>habit</author>
+        <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[PowerShell]]></category><category><![CDATA[Блог компании ua-hosting.company]]></category>
+        <category><![CDATA[PowerWare]]></category><category><![CDATA[PowerShell]]></category><category><![CDATA[вимогатели]]></category><category><![CDATA[взлом]]></category><category><![CDATA[шифрование данных]]></category><category><![CDATA[Carbon Black]]></category><category><![CDATA[Microsoft Word]]></category><category><![CDATA[cmd.exe]]></category><category><![CDATA[winword.exe]]></category><category><![CDATA[excel.exe]]></category><category><![CDATA[powerpnt.exe]]></category><category><![CDATA[outlook.exe]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Частотный словарь запрещённых сайтов]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280470/</guid>
+        <link>https://habrahabr.ru/post/280470/</link>
+        <description><![CDATA[<br/><a href="https://habrahabr.ru/post/280470/"><img src="https://habrastorage.org/files/f29/b84/26d/f29b8426da1248dcb64cf4c6192cb68f.png"/></a><br/>
+<br/>
+Исследование проводилось в целях создания корпуса слов сайтов, заблокированных государственными органами Российской Федерации.<br/>
+ <a href="https://habrahabr.ru/post/280470/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 15:22:02 GMT</pubDate>
+        <author>daocrawler</author>
+        <category><![CDATA[Семантика]]></category><category><![CDATA[Открытые данные]]></category><category><![CDATA[Визуализация данных]]></category><category><![CDATA[Data Mining]]></category>
+        <category><![CDATA[роскомнадзор]]></category><category><![CDATA[запрещенные сайты]]></category><category><![CDATA[корпус слов]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Я покажу тебе мир без STM32]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280145/</guid>
+        <link>https://habrahabr.ru/post/280145/</link>
+        <description><![CDATA[<br/>Компания ЭФО перезапускает сайт <a href="http://mymcu.ru/?utm_source=Habr&amp;utm_medium=WorldWithoutSTM&amp;utm_campaign=HabrWithoutSTM_BeforeCut">myMCU.ru</a> — портал для параметрического поиска микроконтроллеров и сопутствующих решений.<br/>
+<br/>
+Мы внимательно изучили ассортимент ведущих производителей микроконтроллеров и составили единую базу микросхем, отладочных плат и программных средств разработки. Сегодня расскажем о том, как создавался сайт и какие проблемы пришлось решить, чтобы объединить самые разные контроллеры в единую базу для поиска и сохранить подробные описания для каждой микросхемы.<br/>
+<br/>
+Статья будет интересна в первую очередь разработчикам встраиваемых систем — речь пойдет о проблемах выбора аппаратных платформ, а не об идеальных веб-интерфейсах и этом вашем юзабилити.<br/>
+<br/>
+<img src="https://habrastorage.org/files/136/313/6fa/1363136fa4534c0e85360a7647e525ff.png"/><br/>
+<br/>
+ <a href="https://habrahabr.ru/post/280145/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 14:28:42 GMT</pubDate>
+        <author>uuuulala</author>
+        <category><![CDATA[Разработка для интернета вещей]]></category><category><![CDATA[Разработка]]></category><category><![CDATA[Промышленное программирование]]></category><category><![CDATA[Программирование микроконтроллеров]]></category><category><![CDATA[Блог компании ЭФО]]></category>
+        <category><![CDATA[Atmel]]></category><category><![CDATA[FTDI]]></category><category><![CDATA[Silicon Labs]]></category><category><![CDATA[Infineon]]></category><category><![CDATA[Wiznet]]></category><category><![CDATA[продам микроконтроллер]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Диалоги о Java Performance]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280420/</guid>
+        <link>https://habrahabr.ru/post/280420/</link>
+        <description><![CDATA[<br/>Каждый год на <a href="http://javapoint.ru/">JPoint</a> эксперты выступают с хардкорными докладами о производительности Java. И ни разу не было скучно — вопрос сохраняет актуальность на протяжении многих лет. О том, откуда растут ноги у мифов, что делает JVM, как измерять производительность, при чём тут бизнес-требования заказчика и как обойти часть граблей мы поговорили с экспертами, для которых Java performance — не проблема, а работа. <br/>
+<img src="https://habrastorage.org/files/517/09c/744/51709c7445304c37baa6a111219343e9.png"/><br/>
+ <a href="https://habrahabr.ru/post/280420/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 14:14:41 GMT</pubDate>
+        <author>real_ales</author>
+        <category><![CDATA[Разработка]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[JAVA]]></category><category><![CDATA[Блог компании JUG.ru Group]]></category>
+        <category><![CDATA[производительность]]></category><category><![CDATA[производительность java]]></category><category><![CDATA[java performance]]></category><category><![CDATA[jvm]]></category><category><![CDATA[jvm options]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Новое на PHDays: площадка Hardware Village]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280456/</guid>
+        <link>https://habrahabr.ru/post/280456/</link>
+        <description><![CDATA[<br/><a href="https://habrahabr.ru/company/pt/blog/280456/"><img src="https://habrastorage.org/files/2c2/921/caa/2c2921caaea444e4b05b40a6dbe09d59.jpg"/></a><br/>
+<br/>
+В этом году впервые на <a href="http://www.phdays.ru/">Positive Hack Days</a> развернется открытая площадка Hardware Village. Команда этого проекта решила сняться с якоря и принять участие в шестом ежегодном форуме PHDays. Любители хакерского железа смогут «пощупать» оборудование и посетить мастер-классы, на которых ребята поделятся знаниями в области взлома и низкоуровневого программирования.<br/>
+<br/>
+Hardware Village рассчитан как на опытных хардварщиков, так и на начинающих энтузиастов. В течение двух дней посетителей ждут мастер-классы и лекции матерых хакеров, которые расскажут о своем опыте. Для всех желающих будут доступны целые развалы хакерского железа, которое можно не только посмотреть, но и опробовать в деле. <a href="https://habrahabr.ru/post/280456/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 14:07:51 GMT</pubDate>
+        <author>ptsecurity</author>
+        <category><![CDATA[Блог компании Positive Technologies]]></category>
+        <category><![CDATA[hardware]]></category><category><![CDATA[железо]]></category><category><![CDATA[phdays]]></category><category><![CDATA[информационная безопасность]]></category><category><![CDATA[positive hack days]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Настройка и использование Apache Ignite в качестве MyBatis кэш второго уровня (L2 cache)]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280452/</guid>
+        <link>https://habrahabr.ru/post/280452/</link>
+        <description><![CDATA[<br/>В этой статье я расскажу о том, как настроить apache ignite в качестве 2-го уровня кэша для MyBatis ипосмотреть запись кэша в Apache Ignite.<br/>
+<br/>
+<a href="https://habrahabr.ru/company/at_consulting/blog/280452/"><img src="https://habrastorage.org/getpro/habr/post_images/8ad/e26/a61/8ade26a61eff759d4ec5e753e16b3226.jpg" alt="image"/></a><br/>
+ <a href="https://habrahabr.ru/post/280452/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 14:01:46 GMT</pubDate>
+        <author>shamim</author>
+        <category><![CDATA[Серверное администрирование]]></category><category><![CDATA[Серверная оптимизация]]></category><category><![CDATA[ИТ-инфраструктура]]></category><category><![CDATA[Блог компании AT Consulting]]></category>
+        <category><![CDATA[Apache Ignite]]></category><category><![CDATA[MyBatis]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Шаг за шагом: Трансляция данных на flightradar24]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280454/</guid>
+        <link>https://habrahabr.ru/post/280454/</link>
+        <description><![CDATA[<br/><img src="https://habrastorage.org/files/eaa/750/cea/eaa750cea1d649cb8c37f0c03b6c5833.png"/><br/>
+<br/>
+<h4>1. Введение</h4><br/>
+Моя текущая деятельность никак не связана с авиацией, но так случилось, что я заболел ею. В какой точно момент это произошло – сложно сказать, наверное, первый полет здорово поспособствовал этому. Через некоторое время я начал смотреть фильмы на авиационную тематику, интересоваться строением и отличиями в самолетах и искать, как связать свою деятельность хоть немного с моим увлечением. Так я познакомился с технологией <a href="https://ru.wikipedia.org/wiki/ADS-B">ADS-B</a> и ее неожиданным применением среди энтузиастов – радарспоттингом. На просторах Хабра не часто появляются статьи по данной тематике (<a href="https://habrahabr.ru/post/156477/">раз</a>, <a href="https://habrahabr.ru/post/250813/">два</a>). Поэтому здесь я хочу немного поговорить на тему радарспоттинга и подробно описать процесс создания самостоятельной трансляции данных на популярный ресурс <a href="https://www.flightradar24.com/">flightradar24</a>.<br/>
+Итак, всем, кто интересуется (болен) темой авиации и наблюдения за самолетами, а также желает принять в этом свое непосредственное участие, добро пожаловать под кат. <a href="https://habrahabr.ru/post/280454/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 13:55:13 GMT</pubDate>
+        <author>mink_h</author>
+        <category><![CDATA[Открытые данные]]></category><category><![CDATA[Геоинформационные сервисы]]></category><category><![CDATA[*nix]]></category>
+        <category><![CDATA[ads-b]]></category><category><![CDATA[flightradar24]]></category><category><![CDATA[dvb-t]]></category><category><![CDATA[rtl2832]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[[Из песочницы] Четыре слова, которые нельзя (исследование русской обсценной лексики на материалах соц.медиа)]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280450/</guid>
+        <link>https://habrahabr.ru/post/280450/</link>
+        <description><![CDATA[<br/>Один мой приятель, учитель латинского языка, в начале урока спрашивал своих студентов, выполнили ли они домашнее задание. Как правило, если не первый, то второй или третий ученик сознавался: простите, господин Учитель, я ничего не сделал. «<i>Фак</i>!» — говорил учитель. «<i>Фак</i>!» — повторял он, вводя в еще большее недоумение своих чад. «Сегодня мы будем проходить глагол третьего спряжения <i>facio </i>– <i>делать</i>», который в повелительном наклонении единственного числа так и произносится: <i>fac</i>! – <i>делай</i>! <br/>
+<br/>
+Нет, мы не собираемся витийствовать о том, что не бывает хороших и плохих слов, а есть наша оценка оных. Также мы не будем говорить об истоках и функциях русской брани, не будем обсуждать моральную сторону вопроса, как и искать причинно-следственные связи ее употребления. Мы проведем небольшое исследование обсценной лексики на материалах русскоязычных соц. медиа, сделаем ряд замеров и расчетов на большой выборке из интернет-источников.<br/>
+ <a href="https://habrahabr.ru/post/280450/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 13:45:50 GMT</pubDate>
+        <author>lingvolab</author>
+        <category><![CDATA[Семантика]]></category><category><![CDATA[Data Mining]]></category><category><![CDATA[Big Data]]></category>
+        <category>big data</category><category>data mining</category><category>обсценная лексика</category><category>соц.сети</category>
+    </item>
+
+        <item>
+        <title><![CDATA[Игры престолов: почему современным играм нужны популярные тайтлы]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280448/</guid>
+        <link>https://habrahabr.ru/post/280448/</link>
+        <description><![CDATA[<br/>Всё больше хороших игр создаётся по известным франшизам кино, сериалов и литературы. А иногда игры сами создают новые серии, по которым снимают фильмы и выпускают сувенирку. В этой статье я объясню растущую популярность тайтлов в игровой индустрии с позиции массовой культуры, маркетинга и, конечно, бизнеса. <br/>
+Поехали!<br/>
+<div style="text-align:center;"><img src="https://habrastorage.org/files/a47/915/a05/a47915a053eb419ca806a3c4b3d03652.jpg" /></div><br/>
+ <a href="https://habrahabr.ru/post/280448/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 13:42:37 GMT</pubDate>
+        <author>Kallist</author>
+        <category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Game Development]]></category>
+        <category><![CDATA[Геймдев]]></category><category><![CDATA[тайтл]]></category><category><![CDATA[IP]]></category><category><![CDATA[игры по лицензиям]]></category><category><![CDATA[LTV]]></category><category><![CDATA[CPI]]></category><category><![CDATA[трафик]]></category><category><![CDATA[кросс-промо]]></category><category><![CDATA[фичеринг]]></category><category><![CDATA[виралка]]></category><category><![CDATA[Игра престолов]]></category><category><![CDATA[референс]]></category><category><![CDATA[бренд]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Решаем проблему перехвата и подмены DNS-запросов. DNSCrypt в Яндекс.Браузере]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280380/</guid>
+        <link>https://habrahabr.ru/post/280380/</link>
+        <description><![CDATA[<br/>Когда речь заходит о защите веб-трафика от перехвата и подмены, то на ум в первую очередь приходят протокол HTTPS или даже собственный VPN-сервер. К сожалению, многие забывают еще об одной незащищенной стороне, а именно о DNS-запросах. Сегодня я еще раз привлеку внимание к этой проблеме и расскажу о том, как мы решаем ее в Яндекс.Браузере с помощью технологии DNSCrypt.<br/>
+<br/>
+<img src="https://habrastorage.org/files/26a/bd5/023/26abd5023b6f47bdaa574b185c707aee.png"/><br/>
+<br/>
+ <a href="https://habrahabr.ru/post/280380/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 13:27:56 GMT</pubDate>
+        <author>BarakAdama</author>
+        <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Браузеры]]></category><category><![CDATA[DNS]]></category><category><![CDATA[Блог компании Яндекс]]></category>
+        <category><![CDATA[яндекс]]></category><category><![CDATA[яндекс.браузер]]></category><category><![CDATA[dns]]></category><category><![CDATA[dnscrypt]]></category><category><![CDATA[opendns]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Программирование на Python — курс для желающих узнать о нём больше или изучить ещё один язык программирования]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280426/</guid>
+        <link>https://habrahabr.ru/post/280426/</link>
+        <description><![CDATA[<br/><blockquote>&quot;The joy of coding Python should be in seeing short, concise, readable classes that express a lot of action in a small amount of clear code — not in reams of trivial code that bores the reader to death.&quot;<br/>
+Guido van Rossum</blockquote><br/>
+<img src="https://habrastorage.org/files/8ff/395/eb2/8ff395eb233f451ea76527bfc1903ea2.png" align="left"/><a href="http://python.org">Python</a> — язык программирования, на котором приятно писать и который приятно читать. Мы предлагаем тринадцать лекций <a href="https://compscicenter.ru/courses/python/2015-autumn/">осеннего курса</a> CS центра, чтобы посмотреть вглубь языка и попробовать понять, как пользоваться всеми его возможностями. Лекции читает <a href="https://github.com/superbobry">Сергей Лебедев</a>, разработчик в компании JetBrains и преподаватель в Computer Science Center. <br/>
+<br/>
+Мало освоить синтаксис, чтобы узнать язык программирования: нужно осознать идиомы языка и научиться их применять. В течение курса Сергей знакомит слушателей с идиомами и возможностями языка Python.<br/>
+<br clear="all"/>
+<sub>Фотография сделана осенью 2014 года в Страсбурге, за две недели до начала первого прочтения этого курса. </sub><br/>
+ <a href="https://habrahabr.ru/post/280426/#habracut">Открыть лекции курса</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 12:56:35 GMT</pubDate>
+        <author>katherins</author>
+        <category><![CDATA[Программирование]]></category><category><![CDATA[Python]]></category><category><![CDATA[Блог компании СПБАУ]]></category>
+        <category><![CDATA[python]]></category><category><![CDATA[cs центр]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[[Перевод] 10 онлайн-инструментов для проверки SSL, TLS и последних уязвимостей]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280442/</guid>
+        <link>https://habrahabr.ru/post/280442/</link>
+        <description><![CDATA[<br/><i>От переводчика.<br/>
+<br/>
+Привет! В последнее время было обнаружено довольно много уязвимостей, связанных с SSL, поэтому мне захотелось сделать перевод статьи, в которой собран список инструментов для тестирования SSL, TLS и различных уязвимостей. В статье довольно много терминов, поэтому хочу извиниться, если что-то перевела не совсем корректно. Если вы можете предложить лучший вариант перевода, пожалуйста, напишите в личные сообщения.</i><br/>
+<br/>
+<a href="https://habrahabr.ru/company/hosting-cafe/blog/280442/#habracut"><img src="https://habrastorage.org/getpro/habr/post_images/60e/c79/1b5/60ec791b59d976824cd028f08b05206c.jpg" alt="image"/></a> <a href="https://habrahabr.ru/post/280442/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 12:26:56 GMT</pubDate>
+        <author>Mariakozlova</author>
+        <category><![CDATA[Криптография]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Веб-разработка]]></category><category><![CDATA[IT-стандарты]]></category><category><![CDATA[Блог компании HOSTING.cafe]]></category>
+        <category>ssl</category><category>уязвимости</category><category>тестирование ssl</category>
+    </item>
+
+        <item>
+        <title><![CDATA[ИБ-стартап Palantir поможет инвестбанку Credit Suisse создать систему для выявления недобросовестных трейдеров]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280436/</guid>
+        <link>https://habrahabr.ru/post/280436/</link>
+        <description><![CDATA[<br/><a href="https://habrahabr.ru/company/itinvest/blog/280436/"><img src="https://habrastorage.org/files/5de/aa1/230/5deaa12306ad4e18ad11d64c1cab5571.png"/></a><br/>
+<br/>
+Руководитель инвестиционного банка Credit Suisse Тиджай Тиам в интервью Bloomberg TV <a href="http://www.bloomberg.com/news/articles/2016-03-23/credit-suisse-ceo-blindsided-as-bank-added-to-risky-positions">заявил</a> о том, что некоторые трейдеры компании совершали рискованные операции на финансовых рынках без согласования с руководством. Эти действия привели к серьезным убыткам. <br/>
+<br/>
+Для предотвращения подобных ситуаций в будущем швейцарский банк разработает новую стратегию управления и усилит контроль за трейдерами — для этого будут использоваться технологии стартапа Palantir, связанного с Агентством нацбезопасности США. <a href="https://habrahabr.ru/post/280436/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 12:05:23 GMT</pubDate>
+        <author>itinvest</author>
+        <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Блог компании ITinvest]]></category>
+        <category><![CDATA[информационная безопасность]]></category><category><![CDATA[финансы]]></category><category><![CDATA[биржа]]></category><category><![CDATA[онлайн-трейдинг]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Palantir и отмывание денег]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280434/</guid>
+        <link>https://habrahabr.ru/post/280434/</link>
+        <description><![CDATA[<br/>Вместе с компанией <a href="http://www.edsd.ru/ru/uslugi/localizacija">Edison</a> продолжаем расследование возможностей системы Palantir.<br/>
+<br/>
+<img src="https://habrastorage.org/files/923/603/ec2/923603ec200c45b0a739e87905c60ba0.jpg"/><br/>
+<br/>
+<b>Palantir</b> — <i>частная американская компания</i>, разработчик программного обеспечения анализа данных для организаций, основные заказчики — спецслужбы, инвестиционные банки, хедж-фонды. Основана в 2003 году группой инвесторов — выходцев из PayPal во главе с Питером Тилем.<br/>
+<br/>
+До 2008 года ЦРУ было единственным заказчиком компании, когда с его разрешения программное обеспечение Palantir начало внедряться правоохранителям и в другие американские спецслужбы. С 2010 года началась активная кампания по публичному продвижению продукции компании на широком рынке.<br/>
+<br/>
+В конце 2010 года представлены результаты шестнадцатимесячной разработки Palantir для тактико-аналитической поддержки военных операций в Афганистане, проводимых Армией США, в которой кроме серверных технологий и настольных клиентских программ применены также мобильные приложения для носимых устройств; вскоре в прессе появились сведения о том, что технологии Palantir предположительно были задействованы в спецоперации по уничтожению лидера «Аль-Каиды» Усамы бин Ладена весной 2011 года.<br/>
+<br/>
+По состоянию на начало 2016 года считается четвёртым по капитализации стартапом в мире (после Uber, Xiaomi и Airbnb) с оценкой стоимости бизнеса в $20 млрд.<br/>
+<br/>
+На официальном канале Palantir есть видео с демонстрацией работы аналитика, использующего систему Palantir в ходе расследования отмывания денег. По-моему, как-то так видели пользу информационных технологий «отцы-основатели» <a href="https://habrahabr.ru/company/edison/blog/279241/">Вэнивар Буш («As We May Think»)</a>, <a href="https://habrahabr.ru/company/edison/blog/279809/">Дуглас Энгельбарт («The Mother of All Demos»)</a> и <a href="https://habrahabr.ru/company/edison/blog/277903/">Джозеф Ликлайдер («Интергалактическая компьютерная сеть» и «Симбиоз человека и компьютера»)</a>, о которых я писал немного ранее.<br/>
+<br/>
+<i>(За помощь с переводом спасибо Ворсину Алексею)</i><br/>
+<br/>
+ <a href="https://habrahabr.ru/post/280434/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 11:59:00 GMT</pubDate>
+        <author>MagisterLudi</author>
+        <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Интерфейсы]]></category><category><![CDATA[Визуализация данных]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Блог компании Edison]]></category>
+        <category><![CDATA[palantir]]></category><category><![CDATA[разработка]]></category><category><![CDATA[разведка]]></category><category><![CDATA[слежка]]></category><category><![CDATA[аналитика]]></category><category><![CDATA[edisonsoftware]]></category>
+    </item>
+
+
+
+</channel>
+</rss>
